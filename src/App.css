@@ -5,3 +5,14 @@
 *{
   margin:0;
 }
+.dark-mode {
+  background-color: black;
+  min-height: 100vh;
+  min-width: 100vw;
+  color: white;
+}
+.light-mode {
+  background-color: white;
+  min-height: 100vh;
+  min-width: 100vw;
+}
